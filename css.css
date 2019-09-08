@@ -1,0 +1,115 @@
+body {
+    background-color: #192a56;
+}
+div#div1 {
+    background-color: #40739e;
+    padding: 300px;
+    border-radius: 10px;
+    position: absolute;
+    left: 200px;
+    top: 90px;
+}
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    border: solid;
+    padding-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+#img1 {
+    position: absolute;
+    bottom: 360px;
+    right: 360px;
+    cursor: pointer;
+    border: solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+#img2 {
+    position: absolute;
+    bottom: 350px;
+    left: 360px;
+    cursor: pointer;
+    border: solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+#img3 {
+    position: absolute;
+    right: 180px;
+    cursor: pointer;
+    border: solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+h3 {
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    left: 40px;
+    top: 50%;
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+    opacity: 0;
+}
+p#p {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 830px;
+    top: 300px;
+    font-family: sans-serif;
+    opacity: 0;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+#maq {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 800px;
+    font-family: sans-serif;
+    top: 150px;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0;
+}
+#eu {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 800px;
+    top: 70px;
+    font-family: sans-serif;
+    border: solid;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0;
+}
+h4#h21 {
+    color: white;
+    position: absolute;
+    left: 70px;
+    top: 51px;
+    font-size: 70px;
+}
+h4#nome1 {
+    color: white;
+    position: absolute;
+    left: 15px;
+    top: -30px;
+    font-size: 40px;
+    border: solid white;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 1;
+}
